@@ -1,4 +1,4 @@
-# DPTechnicalTest
+# TFL
 
 This test suite written by Anupam Pandey with an assumption that the tests will be written 
 in C# and Chrome Browser.
@@ -14,7 +14,7 @@ There can be more tests which can be easily written on the basis of following te
 
 Background: 
 	Given user navigates to Home page
-	And click "Accept all cookies" button
+ 	And click "Accept all cookies" button
 
 
 Scenario Outline: Verify a valid journey
